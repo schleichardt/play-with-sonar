@@ -22,3 +22,5 @@ addSbtPlugin("com.typesafe.sbt" % "sbt-play-enhancer" % "1.1.0")
 
 
 addSbtPlugin("info.schleichardt" % "sbt-sonar" % "0.2.0")
+
+addSbtPlugin("de.johoop" % "jacoco4sbt" % "2.2.0")
